@@ -12,7 +12,7 @@ Witch huts are hard coded structure spawns meaning they can spawn in only predef
 
 [Bedrock Technical Resource Pack](https://github.com/RavinMaddHatter/Bedrock-Technical-Resource-Pack)
 
-This strips out the crop water feature into a standalone addon and updates it to support 1.19.30
+This strips out the feature into a standalone addon and updates it to support 1.19.30
 
 ## How To Use
 
